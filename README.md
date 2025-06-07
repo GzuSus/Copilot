@@ -1,7 +1,7 @@
 # Copilot
-Realizando a atividade proposta pela Dio, obtive o resultado de 3 agentes Copilots feitos, seguindo os temas de: viagens, ensino e gastronomia. Lá tive o primeiro contato com essa tecnologia, foi uma experiencia divertida e que agregou no conhecimento.
+Realizando a atividade proposta pela DIO, obtive como resultado a criação de três agentes Copilots, seguindo os temas de: viagens, ensino e gastronomia. Esse foi meu primeiro contato com essa tecnologia, uma experiência divertida e que agregou muito ao meu conhecimento.
 
-# Copilotes
+# Copilotos
 Travely: sem muito o que dizer, foi utilizado o modelo de viagens pronto.
 
 Diogent:
